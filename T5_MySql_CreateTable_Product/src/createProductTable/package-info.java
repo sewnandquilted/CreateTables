@@ -1,0 +1,8 @@
+/**
+ * 
+ */
+/**
+ * @author geoffn
+ *
+ */
+package createProductTable;
